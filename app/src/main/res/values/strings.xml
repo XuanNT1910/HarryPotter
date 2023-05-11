@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Neymar</string>
+    <string-array name="country">
+        <item>VietNam</item>
+        <item>TrungQuoc</item>
+        <item>NhatBan</item>
+    </string-array>
+</resources>
